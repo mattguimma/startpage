@@ -9,7 +9,6 @@ const arakiDoodles = [
     'img/jolyne2.png',
     'img/josuke.png',
     'img/killerqueen.png',
-    'img/kira.png',
     'img/lucy.png',
     'img/pucci.png',
     'img/rohan.png',
