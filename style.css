@@ -111,7 +111,7 @@ main{
 }
 
 .search{
-    margin: 0 0 35px 35px;
+    margin: 0 0 35px 40px;
     display: flex;
     flex-direction: row;
 }

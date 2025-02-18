@@ -2,7 +2,6 @@ const arakiDoodles = [
     'img/diego.png',
     'img/giorno.png',
     'img/jolyne.png',
-    'img/kirajjl.png',
     'img/yasuho.png',
     'img/yukako.png',
     'img/lucy.png',
