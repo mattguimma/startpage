@@ -1,3 +1,5 @@
+window.onload = sortSideBarBG;
+
 const arakiDoodles = [
     'img/bruno.png',
     'img/diego.png',
