@@ -1,6 +1,7 @@
 @font-face {
     font-family: "Compagnon Roman";
-    src: local('Compagnon Roman') url('Compagnon-Roman.otf'), format('OpenType');
+    src: url("Compagnon-Roman.woff");
+    src: local("Compagnon Roman") url('Compagnon-Roman.woff');
     font-weight: normal;
     font-style: normal;
 }
@@ -36,6 +37,7 @@ main{
 }
 
 #content{
+    font-family: 'Compagnon Roman';
     display: flex;
     flex-direction: column;
     justify-content: center;
@@ -120,7 +122,7 @@ main{
 }
 
 .search{
-    margin: 0 0 25px 40px;
+    margin: 0 0 10px 40px;
     display: flex;
     flex-direction: row;
 }
