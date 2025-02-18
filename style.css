@@ -29,7 +29,7 @@ main{
 
 #sidebar{
     width: 250px;
-    height: 500px;
+    height: 540px;
     background-position: center;
     background-repeat: no-repeat;
     margin-right: 30px;
@@ -43,7 +43,7 @@ main{
     justify-content: center;
     outline-style: groove;
     width: 800px;
-    height: 500px;
+    height: 540px;
     outline-width: 1px;
 }
 
@@ -122,7 +122,7 @@ main{
 }
 
 .search{
-    margin: 0 0 10px 40px;
+    margin: 20px 0 10px 40px;
     display: flex;
     flex-direction: row;
 }
