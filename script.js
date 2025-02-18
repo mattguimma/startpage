@@ -23,4 +23,3 @@ function sortSideBarBG() {
     const i = Math.floor(Math.random() * arakiDoodles.length);
     document.getElementById('sidebar').style.backgroundImage = `url(${arakiDoodles[i]})`;
 }
-
